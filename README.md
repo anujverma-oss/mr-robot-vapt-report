@@ -51,6 +51,11 @@ This repository contains an Internal Network Penetration Testing (VAPT) report f
 Report/
  └── VAPT Report MrRobot Anuj Verma.pdf
 ```
+## Report
+
+The complete penetration testing report is available in:
+
+Report/Mr-Robot-VAPT-Report.pdf
 
 ## Disclaimer
 
